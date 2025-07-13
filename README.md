@@ -1,4 +1,4 @@
-- Hi, I’m @timoAnsah
-- creating AWS Projects to demonstrate my skills in building cloud architectures...
-- Goal is to be a cloud/devOps Engineer
+- Hi, I’m Timothy
+check out some of my cloud projects.
+- aspiring to be a cloud engineer & DevOps Engineer after
 - my email is timoansah10@gmail.com.
